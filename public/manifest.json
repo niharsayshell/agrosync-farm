@@ -1,0 +1,16 @@
+{
+  "name": "AgroSync Farm Management",
+  "short_name": "AgroSync",
+  "description": "Manage your farm plots, crops, tasks, and inventory",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080E0A",
+  "theme_color": "#4ADE80",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
